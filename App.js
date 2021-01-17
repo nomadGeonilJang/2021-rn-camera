@@ -8,7 +8,7 @@ import * as FaceDetector from 'expo-face-detector';
 import * as MediaLibrary from 'expo-media-library';
 
 const {width, height} = Dimensions.get("window");
-const ALBUM_NAME='Hello Cam'
+const ALBUM_NAME='Hello Camera'
 
 
 export default function App() {
